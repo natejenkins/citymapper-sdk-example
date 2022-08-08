@@ -15,8 +15,8 @@
     "clean": "rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "@citymapper/api": "^0.0.1-alpha.0",
-    "@citymapper/sdk-react": "^0.0.1-alpha.0",
+    "@citymapper/api": "latest",
+    "@citymapper/sdk-react": "latest",
     "@emotion/cache": "^11.9.3",
     "@emotion/react": "^11.9.3",
     "@emotion/server": "^11.4.0",
